@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Web development\\loginpageexample\\loginpageexample\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.loginpageexample.props",
+      "PackagePath": "build\\loginpageexample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.loginpageexample.props",
+      "PackagePath": "buildMultiTargeting\\loginpageexample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.loginpageexample.props",
+      "PackagePath": "buildTransitive\\loginpageexample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.loginpageexample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

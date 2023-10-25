@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "MQr2PimNsn7kBdysxl5PthV2SUdK+gZJSAzkUa43ZJ8=",
+  "Source": "loginpageexample",
+  "BasePath": "_content/loginpageexample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "loginpageexample\\wwwroot",
+      "Source": "loginpageexample",
+      "ContentRoot": "C:\\Web development\\loginpageexample\\loginpageexample\\wwwroot\\",
+      "BasePath": "_content/loginpageexample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Web development\\loginpageexample\\loginpageexample\\wwwroot\\index.html",
+      "SourceId": "loginpageexample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Web development\\loginpageexample\\loginpageexample\\wwwroot\\",
+      "BasePath": "_content/loginpageexample",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
